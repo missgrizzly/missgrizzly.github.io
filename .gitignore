@@ -1,0 +1,13 @@
+_site/
+node_modules/
+build/
+.vscode/
+.vs/
+npm-debug.log
+.DS_Store
+.idea/
+.floo
+.flooignore
+*.iml
+package-lock.json
+Gemfile.lock
